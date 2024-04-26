@@ -15,8 +15,7 @@ This application provides a comprehensive analysis of survey responses in 2023, 
 
 ## Depolyment
 The app is currently deployed at UW-Madison Data Science Platform: https://connect.doit.wisc.edu/DEI_2023OS_DanielYe/  
-It is also deployed at public free shinyapps.io platform: https://www.shinyapps.io/admin/#/application/11868087
-
+It is also deployed at the public free shinyapps.io platform: https://danielye.shinyapps.io/2023-os-DEI/
 ## Features
 
 - **Theme Selection**: Utilizes the Spacelab theme from `shinythemes` for a clean and modern UI.

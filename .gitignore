@@ -1,0 +1,13 @@
+# Restricted participant-level survey data
+identity.csv
+s1.csv
+s2.csv
+
+# Common R/RStudio artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# OS/editor files
+.DS_Store
